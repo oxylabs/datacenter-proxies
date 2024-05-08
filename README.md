@@ -5,7 +5,6 @@
 
    [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
    
-    </a>
 </p>
 
 <h2 align="center">

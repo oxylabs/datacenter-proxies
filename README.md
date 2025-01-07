@@ -33,7 +33,7 @@ As of now, Datacenter Proxy pool covers 82 locations and consists of 2M+ proxies
 
 ## How Datacenter Proxies work
 
-Datacenter proxies are private proxies that are not affiliated with an Internet Service Provider (ISP). Datacenter proxies come from a secondary corporation and provide you with a private IP authentication and a high anonymity level: their main benefit - rapid response times. 
+[Datacenter proxies](https://medium.com/@oxylabs.io/top-14-datacenter-proxy-providers-for-2024-54086b2463c8) are private proxies that are not affiliated with an Internet Service Provider (ISP). Datacenter proxies come from a secondary corporation and provide you with a private IP authentication and a high anonymity level: their main benefit - rapid response times. 
 
 See how our Datacenter Proxies work and suit diverse business requirements, as explained by our Product Owner Nedas:
   

@@ -1,6 +1,6 @@
 # Datacenter Proxies Golang Example
 
-This example demonstrates how to use [oxylabs datacenter API](https://developers.oxylabs.io/datacenter-proxies/index.html#quick-start)
+This example demonstrates how to use [oxylabs datacenter API](https://developers.oxylabs.io/datacenter-proxies/index.html?utm_source=github&utm_medium=referral&utm_content=datacenter-proxies&groupid=877#quick-start)
 
 ## Global variables
 
